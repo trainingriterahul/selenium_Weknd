@@ -1,0 +1,25 @@
+Basics Java
+•	Java Path Setup  - Completed
+•	Basic Java Programming
+•	Package
+•	Class
+•	Methods
+
+Variables
+•	What is variable?
+•	Variable declaration
+•	Variable initialization
+•	Rules of defining a variable
+•	Type of variable
+•	Local variable
+		A variable declared inside the body of the method or constructor or block is called local variable.
+		Local variable can be used only inside that method/function in which it is declared.
+		A local variable can be a static variable.
+•	Instance variable
+		A variable which is declared inside a class but outside the body of the method or constructor or block is called instance variable.
+		Instance variable can be used anywhere in the program.
+•	Static variable
+	A variable which is declared with static keyword, inside a class but outside the body of the method or constructor or block is called static variable.
+	Static variable is stored in the static memory.
+	Static variables are created when the program starts and destroyed when the program stops.
+	Static variable can be called by class name directly.
